@@ -1,0 +1,157 @@
+2020-11-24 09:01:04,858 : INFO: test_formSubmission : First name is Husniya
+2020-11-24 09:01:05,753 : INFO: test_formSubmission : First name is Muhammadali
+2020-11-24 09:01:05,753 : INFO: test_formSubmission : First name is Muhammadali
+2020-11-24 09:01:16,126 : INFO: test_e2e : getting all the card titles
+2020-11-24 09:01:16,153 : INFO: test_e2e : iphone X
+2020-11-24 09:01:16,167 : INFO: test_e2e : Samsung Note 8
+2020-11-24 09:01:16,177 : INFO: test_e2e : Nokia Edge
+2020-11-24 09:01:16,186 : INFO: test_e2e : Blackberry
+2020-11-24 09:01:16,337 : INFO: test_e2e : Entering country name as ind
+2020-11-24 09:01:21,718 : INFO: test_e2e : Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-11-24 09:04:15,240 : INFO: test_formSubmission : First name is HusniyaIslamova
+2020-11-24 09:04:15,688 : INFO: test_formSubmission : First name is MuhammadaliIslamov
+2020-11-24 09:04:15,688 : INFO: test_formSubmission : First name is MuhammadaliIslamov
+2020-11-24 09:04:25,534 : INFO: test_e2e : getting all the card titles
+2020-11-24 09:04:25,558 : INFO: test_e2e : iphone X
+2020-11-24 09:04:25,570 : INFO: test_e2e : Samsung Note 8
+2020-11-24 09:04:25,580 : INFO: test_e2e : Nokia Edge
+2020-11-24 09:04:25,591 : INFO: test_e2e : Blackberry
+2020-11-24 09:04:25,753 : INFO: test_e2e : Entering country name as ind
+2020-11-24 09:04:31,173 : INFO: test_e2e : Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-11-24 09:06:09,154 : INFO: test_formSubmission : First name is HusniyaIslamova
+2020-11-24 09:06:09,857 : INFO: test_formSubmission : First name is MuhammadaliIslamov
+2020-11-24 09:06:09,857 : INFO: test_formSubmission : First name is MuhammadaliIslamov
+2020-11-24 09:06:19,410 : INFO: test_e2e : getting all the card titles
+2020-11-24 09:06:19,434 : INFO: test_e2e : iphone X
+2020-11-24 09:06:19,450 : INFO: test_e2e : Samsung Note 8
+2020-11-24 09:06:19,460 : INFO: test_e2e : Nokia Edge
+2020-11-24 09:06:19,468 : INFO: test_e2e : Blackberry
+2020-11-24 09:06:19,635 : INFO: test_e2e : Entering country name as ind
+2020-11-24 09:06:25,064 : INFO: test_e2e : Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-11-24 09:08:10,866 : INFO: test_e2e : getting all the card titles
+2020-11-24 09:08:10,899 : INFO: test_e2e : iphone X
+2020-11-24 09:08:10,915 : INFO: test_e2e : Samsung Note 8
+2020-11-24 09:08:10,931 : INFO: test_e2e : Nokia Edge
+2020-11-24 09:08:10,949 : INFO: test_e2e : Blackberry
+2020-11-24 09:08:11,164 : INFO: test_e2e : Entering country name as ind
+2020-11-24 09:08:17,138 : INFO: test_e2e : Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-11-24 17:32:29,006 : INFO: test_formSubmission : First name is Husniya
+2020-11-24 17:32:29,860 : INFO: test_formSubmission : First name is Muhammadali
+2020-11-24 17:32:29,860 : INFO: test_formSubmission : First name is Muhammadali
+2020-11-24 17:32:39,316 : INFO: test_e2e : getting all the card titles
+2020-11-24 17:32:39,334 : INFO: test_e2e : iphone X
+2020-11-24 17:32:39,342 : INFO: test_e2e : Samsung Note 8
+2020-11-24 17:32:39,351 : INFO: test_e2e : Nokia Edge
+2020-11-24 17:32:39,359 : INFO: test_e2e : Blackberry
+2020-11-24 17:38:26,138 : INFO: test_formSubmission : First name is Husniya
+2020-11-24 17:38:26,772 : INFO: test_formSubmission : First name is Muhammadali
+2020-11-24 17:38:26,772 : INFO: test_formSubmission : First name is Muhammadali
+2020-11-24 17:38:35,673 : INFO: test_e2e : getting all the card titles
+2020-11-24 17:38:35,690 : INFO: test_e2e : iphone X
+2020-11-24 17:38:35,699 : INFO: test_e2e : Samsung Note 8
+2020-11-24 17:38:35,709 : INFO: test_e2e : Nokia Edge
+2020-11-24 17:38:35,718 : INFO: test_e2e : Blackberry
+2020-11-24 17:38:35,856 : INFO: test_e2e : Entering country name as ind
+2020-11-24 17:38:41,228 : INFO: test_e2e : Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-11-24 18:08:09,730 : INFO: test_formSubmission : First name is Husniya
+2020-11-24 18:08:14,037 : INFO: test_formSubmission : First name is Muhammadali
+2020-11-24 18:08:14,037 : INFO: test_formSubmission : First name is Muhammadali
+2020-11-24 18:08:29,516 : INFO: test_e2e : getting all the card titles
+2020-11-24 18:08:29,550 : INFO: test_e2e : iphone X
+2020-11-24 18:08:29,556 : INFO: test_e2e : Samsung Note 8
+2020-11-24 18:08:29,560 : INFO: test_e2e : Nokia Edge
+2020-11-24 18:08:29,565 : INFO: test_e2e : Blackberry
+2020-11-24 18:08:31,436 : INFO: test_e2e : Entering country name as ind
+2020-11-24 18:08:38,419 : INFO: test_e2e : Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-11-25 08:30:56,867 : INFO: test_formSubmission : First name is Husniya
+2020-11-25 08:30:57,793 : INFO: test_formSubmission : First name is Muhammadali
+2020-11-25 08:30:57,793 : INFO: test_formSubmission : First name is Muhammadali
+2020-11-25 08:31:07,107 : INFO: test_e2e : getting all the card titles
+2020-11-25 08:31:07,126 : INFO: test_e2e : iphone X
+2020-11-25 08:31:07,135 : INFO: test_e2e : Samsung Note 8
+2020-11-25 08:31:07,143 : INFO: test_e2e : Nokia Edge
+2020-11-25 08:31:07,152 : INFO: test_e2e : Blackberry
+2020-11-25 08:31:07,286 : INFO: test_e2e : Entering country name as ind
+2020-11-25 08:31:12,668 : INFO: test_e2e : Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-11-25 08:34:48,277 : INFO: test_formSubmission : First name is Husniya
+2020-11-25 08:34:49,013 : INFO: test_formSubmission : First name is Muhammadali
+2020-11-25 08:34:49,013 : INFO: test_formSubmission : First name is Muhammadali
+2020-11-25 08:34:58,324 : INFO: test_e2e : getting all the card titles
+2020-11-25 08:34:58,347 : INFO: test_e2e : iphone X
+2020-11-25 08:34:58,359 : INFO: test_e2e : Samsung Note 8
+2020-11-25 08:34:58,369 : INFO: test_e2e : Nokia Edge
+2020-11-25 08:34:58,379 : INFO: test_e2e : Blackberry
+2020-11-25 08:34:58,583 : INFO: test_e2e : Entering country name as ind
+2020-11-25 08:35:04,021 : INFO: test_e2e : Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-11-29 09:25:07,414 : INFO: test_formSubmission : First name is Husniya
+2020-11-29 09:25:07,774 : INFO: test_formSubmission : First name is Muhammadali
+2020-11-29 09:25:07,774 : INFO: test_formSubmission : First name is Muhammadali
+2020-11-29 09:25:15,151 : INFO: test_e2e : getting all the card titles
+2020-11-29 09:25:15,173 : INFO: test_e2e : iphone X
+2020-11-29 09:25:15,183 : INFO: test_e2e : Samsung Note 8
+2020-11-29 09:25:15,193 : INFO: test_e2e : Nokia Edge
+2020-11-29 09:25:15,204 : INFO: test_e2e : Blackberry
+2020-11-29 09:25:15,363 : INFO: test_e2e : Entering country name as ind
+2020-11-29 09:25:21,757 : INFO: test_e2e : Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-11-29 10:12:06,564 : INFO: test_formSubmission : First name is Husniya
+2020-11-29 10:12:07,330 : INFO: test_formSubmission : First name is Muhammadali
+2020-11-29 10:12:07,330 : INFO: test_formSubmission : First name is Muhammadali
+2020-11-29 10:14:23,405 : INFO: test_formSubmission : First name is Husniya
+2020-11-29 10:14:24,675 : INFO: test_formSubmission : First name is Muhammadali
+2020-11-29 10:14:24,675 : INFO: test_formSubmission : First name is Muhammadali
+2020-11-29 10:14:32,068 : INFO: test_e2e : getting all the card titles
+2020-11-29 10:14:32,085 : INFO: test_e2e : iphone X
+2020-11-29 10:14:32,094 : INFO: test_e2e : Samsung Note 8
+2020-11-29 10:14:32,103 : INFO: test_e2e : Nokia Edge
+2020-11-29 10:14:32,112 : INFO: test_e2e : Blackberry
+2020-11-29 10:17:19,015 : INFO: test_formSubmission : First name is Husniya
+2020-11-29 10:17:19,750 : INFO: test_formSubmission : First name is Muhammadali
+2020-11-29 10:17:19,750 : INFO: test_formSubmission : First name is Muhammadali
+2020-11-29 10:17:28,391 : INFO: test_e2e : getting all the card titles
+2020-11-29 10:17:28,412 : INFO: test_e2e : iphone X
+2020-11-29 10:17:28,427 : INFO: test_e2e : Samsung Note 8
+2020-11-29 10:17:28,441 : INFO: test_e2e : Nokia Edge
+2020-11-29 10:17:28,454 : INFO: test_e2e : Blackberry
+2020-11-29 10:17:28,616 : INFO: test_e2e : Entering country name as ind
+2020-11-29 10:17:34,495 : INFO: test_e2e : Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-11-29 10:22:32,387 : INFO: test_formSubmission : First name is Husniya
+2020-11-29 10:22:33,161 : INFO: test_formSubmission : First name is Muhammadali
+2020-11-29 10:22:33,161 : INFO: test_formSubmission : First name is Muhammadali
+2020-11-29 10:22:41,668 : INFO: test_e2e : getting all the card titles
+2020-11-29 10:22:41,690 : INFO: test_e2e : iphone X
+2020-11-29 10:22:41,699 : INFO: test_e2e : Samsung Note 8
+2020-11-29 10:22:41,709 : INFO: test_e2e : Nokia Edge
+2020-11-29 10:22:41,722 : INFO: test_e2e : Blackberry
+2020-11-29 10:22:41,883 : INFO: test_e2e : Entering country name as ind
+2020-11-29 10:22:47,251 : INFO: test_e2e : Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-11-29 10:24:05,701 : INFO: test_formSubmission : First name is Husniya
+2020-11-29 10:24:06,481 : INFO: test_formSubmission : First name is Muhammadali
+2020-11-29 10:24:06,481 : INFO: test_formSubmission : First name is Muhammadali
+2020-11-29 10:24:14,566 : INFO: test_e2e : getting all the card titles
+2020-11-29 10:24:14,591 : INFO: test_e2e : iphone X
+2020-11-29 10:24:14,603 : INFO: test_e2e : Samsung Note 8
+2020-11-29 10:24:14,614 : INFO: test_e2e : Nokia Edge
+2020-11-29 10:24:14,627 : INFO: test_e2e : Blackberry
+2020-11-29 10:24:14,780 : INFO: test_e2e : Entering country name as ind
+2020-11-29 10:24:20,652 : INFO: test_e2e : Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-11-30 08:06:20,752 : INFO: test_e2e : getting all the card titles
+2020-11-30 08:06:20,776 : INFO: test_e2e : iphone X
+2020-11-30 08:06:20,787 : INFO: test_e2e : Samsung Note 8
+2020-11-30 08:06:20,799 : INFO: test_e2e : Nokia Edge
+2020-11-30 08:06:20,816 : INFO: test_e2e : Blackberry
+2020-11-30 08:06:20,981 : INFO: test_e2e : Entering country name as ind
+2020-11-30 08:06:26,442 : INFO: test_e2e : Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-11-30 08:11:21,782 : INFO: test_formSubmission : First name is Husniya
